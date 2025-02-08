@@ -1,0 +1,33 @@
+# Default ignored files for IDEs
+/.idea/
+/*.iml
+/.vscode/
+
+# Maven build output
+/target/
+
+# Logs
+*.log
+logs/
+
+# Compiled files
+*.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.tmp
+
+# HTTP Client requests
+/httpRequests
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# IntelliJ workspace files
+/shelf
+/workspace.xml
