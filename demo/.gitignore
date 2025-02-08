@@ -4,13 +4,21 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### OS-Specific Files ###
+.DS_Store
+Thumbs.db
+
+### Logs ###
+*.log
+logs/
+
 ### STS ###
 .apt_generated
 .classpath
 .factorypath
 .project
 .settings
-.springBeans
+springBeans
 .sts4-cache
 
 ### IntelliJ IDEA ###
@@ -31,3 +39,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Temporary/Backup Files ###
+*.tmp
+*.swp
+~*
